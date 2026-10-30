@@ -1,11 +1,11 @@
-# Vinyl Street Co. Campaign Website
+# Vinyl Street Co. campaign website
 
-A responsive one-page website adapted from the supplied Vinyl Street Co. digital marketing campaign plan.
+A responsive one-page campaign site adapted from the supplied Vinyl Street Co. digital marketing campaign plan.
 
 ## GitHub Pages
 
-The website is published from the `site/` folder by the GitHub Actions workflow in `.github/workflows/pages.yml`. After the first deployment succeeds, visit:
+The included Actions workflow publishes the contents of `site/` on pushes to `main` or `master`. Once the workflow is enabled and deployment succeeds, the site URL will be:
 
-https://cooperpenberth-creator.github.io/Vinylstreetco./
+`https://cooperpenberth-creator.github.io/Vinylstreetco/`
 
-The source PDF is not included. Campaign figures are presented as plan targets, not measured results. Timeline months are reproduced as supplied; the PDF did not specify a year.
+The source PDF is not included in the website repository. Campaign metrics are labeled as plan targets, not measured results. Timeline months are reproduced as supplied; the PDF did not specify a year.
